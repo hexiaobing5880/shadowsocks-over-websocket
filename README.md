@@ -14,7 +14,7 @@
 
 ---
 
-### 3.创建 [Heroku](https://dashboard.heroku.com/new?org=personal-apps) 应用
+### 3.创建 [Heroku](https://dashboard.heroku.com/new?org=personal-apps) 应用（可以使用谷歌访问助手注册）
 ![2](./imgs/2.png)
 登陆 Heroku 帐号，进入 [Dashboard](https://dashboard.heroku.com/apps) 页面  ==> Create New App ==> 输入 App Name  ==>  Create App
 
